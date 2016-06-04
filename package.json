@@ -1,0 +1,19 @@
+{
+  "name": "batalha_naval_server",
+  "version": "1.0.0",
+  "description": "jogo com finalidade de testar recursos ecma6",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "mockery": "^1.7.0",
+    "sinon": "^1.17.4"
+  }
+}
